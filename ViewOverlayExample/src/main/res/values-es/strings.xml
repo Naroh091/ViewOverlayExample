@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ejemplo">Ejemplo de ViewOverlay</string>
+    <string name="animacionsin">Animación sin ViewOverlay</string>
+    <string name="animacioncon">Animación con ViewOverlay</string>
+    <string name="recordatorioversion">Recuerda que es necesario tener Android 4.3 Jelly Bean o superior</string><string name="click">Click!</string>
+</resources>
